@@ -1,4 +1,4 @@
-# 🎨 RES Portfolio — Personal Web Developer Portfolio
+# 🎨 My Portfolio 
 
 This is a modern, responsive personal portfolio website built using HTML, CSS, and animations.
 
